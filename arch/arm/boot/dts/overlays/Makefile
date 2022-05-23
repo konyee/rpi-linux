@@ -23,6 +23,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	anyspi.dtbo \
 	apds9960.dtbo \
 	applepi-dac.dtbo \
+	arducam-pivariety.dtbo \
 	at86rf233.dtbo \
 	audioinjector-addons.dtbo \
 	audioinjector-bare-i2s.dtbo \
@@ -58,6 +59,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	goodix.dtbo \
 	googlevoicehat-soundcard.dtbo \
 	gpio-fan.dtbo \
+	gpio-hog.dtbo \
 	gpio-ir.dtbo \
 	gpio-ir-tx.dtbo \
 	gpio-key.dtbo \
@@ -84,6 +86,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	hy28b-2017.dtbo \
 	i-sabre-q2m.dtbo \
 	i2c-bcm2708.dtbo \
+	i2c-fan.dtbo \
 	i2c-gpio.dtbo \
 	i2c-mux.dtbo \
 	i2c-pwm-pca9685a.dtbo \
@@ -101,6 +104,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	imx219.dtbo \
 	imx258.dtbo \
 	imx290.dtbo \
+	imx296.dtbo \
 	imx378.dtbo \
 	imx477.dtbo \
 	imx519.dtbo \
